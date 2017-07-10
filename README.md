@@ -1,6 +1,15 @@
-# Cloud Dataflow Batch ML Predictions Example
 
-Disclaimer: This is not an official Google product.
+
+# Disclaimer: 
+This project comes from the following location:
+
+https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow
+
+Contents below comes from the material downloaded.  Other files within the project may differ 
+from original download for educational purposes.
+
+
+# Cloud Dataflow Batch ML Predictions Example
 
 This is an example to demonstrate how to use Cloud Dataflow to run batch
  processing for machine learning predictions. The machine learning model is
